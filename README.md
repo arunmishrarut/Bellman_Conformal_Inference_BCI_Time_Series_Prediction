@@ -1,7 +1,5 @@
 # Bellman Conformal Inference (BCI) – Time Series Prediction
-Team: Minxuan Hong, Haotian Qian, Arun Mishra
-Course: 16:958:588:02 – Data Mining Final Project
-Instructor: Linjun Zhang
+
 
 # Overview
 This project reproduces the results from the research paper:
